@@ -1,0 +1,24 @@
+exo-civilization-world/
+├─ README.md
+├─ constitution/
+│  ├─ 世界憲法.md
+│  ├─ 正史と異説の扱い.md
+│  └─ 参加作者ガイドライン.md
+├─ history/
+│  ├─ 大宇宙史_年表.md
+│  ├─ Epoch一覧.md
+│  └─ 主要事件一覧.md
+├─ lore/
+│  ├─ 宗派一覧.md
+│  ├─ 財閥一覧.md
+│  ├─ 皇帝家と五公家.md
+│  ├─ 互換層と文化差分.md
+│  └─ GenLang.md
+├─ templates/
+│  ├─ 文明テンプレート.md
+│  ├─ キャラクターテンプレート.md
+│  └─ 作品登録テンプレート.md
+└─ works/
+   ├─ sample_01.md
+   ├─ sample_02.md
+   └─ sample_03.md
